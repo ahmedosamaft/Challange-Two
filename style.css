@@ -119,3 +119,10 @@ h3 {
     background-color: hsl(249deg 100% 74%);
     cursor: pointer;
 }
+
+@media (max-width:600px) {
+    .card {
+        width: 330px;
+    }
+}
+
